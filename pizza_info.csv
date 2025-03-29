@@ -1,0 +1,97 @@
+pizza_type_id,pizza_name,category,pizza_id,size,price
+bbq_ckn,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_s,S,12.75
+bbq_ckn,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_m,M,16.75
+bbq_ckn,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_l,L,20.75
+cali_ckn,"The California Chicken Pizza",Chicken,cali_ckn_s,S,12.75
+cali_ckn,"The California Chicken Pizza",Chicken,cali_ckn_m,M,16.75
+cali_ckn,"The California Chicken Pizza",Chicken,cali_ckn_l,L,20.75
+ckn_alfredo,"The Chicken Alfredo Pizza",Chicken,ckn_alfredo_s,S,12.75
+ckn_alfredo,"The Chicken Alfredo Pizza",Chicken,ckn_alfredo_m,M,16.75
+ckn_alfredo,"The Chicken Alfredo Pizza",Chicken,ckn_alfredo_l,L,20.75
+ckn_pesto,"The Chicken Pesto Pizza",Chicken,ckn_pesto_s,S,12.75
+ckn_pesto,"The Chicken Pesto Pizza",Chicken,ckn_pesto_m,M,16.75
+ckn_pesto,"The Chicken Pesto Pizza",Chicken,ckn_pesto_l,L,20.75
+southw_ckn,"The Southwest Chicken Pizza",Chicken,southw_ckn_s,S,12.75
+southw_ckn,"The Southwest Chicken Pizza",Chicken,southw_ckn_m,M,16.75
+southw_ckn,"The Southwest Chicken Pizza",Chicken,southw_ckn_l,L,20.75
+thai_ckn,"The Thai Chicken Pizza",Chicken,thai_ckn_s,S,12.75
+thai_ckn,"The Thai Chicken Pizza",Chicken,thai_ckn_m,M,16.75
+thai_ckn,"The Thai Chicken Pizza",Chicken,thai_ckn_l,L,20.75
+big_meat,"The Big Meat Pizza",Classic,big_meat_s,S,12
+big_meat,"The Big Meat Pizza",Classic,big_meat_m,M,16
+big_meat,"The Big Meat Pizza",Classic,big_meat_l,L,20.5
+classic_dlx,"The Classic Deluxe Pizza",Classic,classic_dlx_s,S,12
+classic_dlx,"The Classic Deluxe Pizza",Classic,classic_dlx_m,M,16
+classic_dlx,"The Classic Deluxe Pizza",Classic,classic_dlx_l,L,20.5
+hawaiian,"The Hawaiian Pizza",Classic,hawaiian_s,S,10.5
+hawaiian,"The Hawaiian Pizza",Classic,hawaiian_m,M,13.25
+hawaiian,"The Hawaiian Pizza",Classic,hawaiian_l,L,16.5
+ital_cpcllo,"The Italian Capocollo Pizza",Classic,ital_cpcllo_s,S,12
+ital_cpcllo,"The Italian Capocollo Pizza",Classic,ital_cpcllo_m,M,16
+ital_cpcllo,"The Italian Capocollo Pizza",Classic,ital_cpcllo_l,L,20.5
+napolitana,"The Napolitana Pizza",Classic,napolitana_s,S,12
+napolitana,"The Napolitana Pizza",Classic,napolitana_m,M,16
+napolitana,"The Napolitana Pizza",Classic,napolitana_l,L,20.5
+pep_msh_pep,"The Pepperoni, Mushroom, and Peppers Pizza",Classic,pep_msh_pep_s,S,11
+pep_msh_pep,"The Pepperoni, Mushroom, and Peppers Pizza",Classic,pep_msh_pep_m,M,14.5
+pep_msh_pep,"The Pepperoni, Mushroom, and Peppers Pizza",Classic,pep_msh_pep_l,L,17.5
+pepperoni,"The Pepperoni Pizza",Classic,pepperoni_s,S,9.75
+pepperoni,"The Pepperoni Pizza",Classic,pepperoni_m,M,12.5
+pepperoni,"The Pepperoni Pizza",Classic,pepperoni_l,L,15.25
+the_greek,"The Greek Pizza",Classic,the_greek_s,S,12
+the_greek,"The Greek Pizza",Classic,the_greek_m,M,16
+the_greek,"The Greek Pizza",Classic,the_greek_l,L,20.5
+the_greek,"The Greek Pizza",Classic,the_greek_xl,XL,25.5
+the_greek,"The Greek Pizza",Classic,the_greek_xxl,XXL,35.95
+brie_carre,"The Brie Carre Pizza",Supreme,brie_carre_s,S,23.65
+calabrese,"The Calabrese Pizza",Supreme,calabrese_s,S,12.25
+calabrese,"The Calabrese Pizza",Supreme,calabrese_m,M,16.25
+calabrese,"The Calabrese Pizza",Supreme,calabrese_l,L,20.25
+ital_supr,"The Italian Supreme Pizza",Supreme,ital_supr_s,S,12.5
+ital_supr,"The Italian Supreme Pizza",Supreme,ital_supr_m,M,16.5
+ital_supr,"The Italian Supreme Pizza",Supreme,ital_supr_l,L,20.75
+peppr_salami,"The Pepper Salami Pizza",Supreme,peppr_salami_s,S,12.5
+peppr_salami,"The Pepper Salami Pizza",Supreme,peppr_salami_m,M,16.5
+peppr_salami,"The Pepper Salami Pizza",Supreme,peppr_salami_l,L,20.75
+prsc_argla,"The Prosciutto and Arugula Pizza",Supreme,prsc_argla_s,S,12.5
+prsc_argla,"The Prosciutto and Arugula Pizza",Supreme,prsc_argla_m,M,16.5
+prsc_argla,"The Prosciutto and Arugula Pizza",Supreme,prsc_argla_l,L,20.75
+sicilian,"The Sicilian Pizza",Supreme,sicilian_s,S,12.25
+sicilian,"The Sicilian Pizza",Supreme,sicilian_m,M,16.25
+sicilian,"The Sicilian Pizza",Supreme,sicilian_l,L,20.25
+soppressata,"The Soppressata Pizza",Supreme,soppressata_s,S,12.5
+soppressata,"The Soppressata Pizza",Supreme,soppressata_m,M,16.5
+soppressata,"The Soppressata Pizza",Supreme,soppressata_l,L,20.75
+spicy_ital,"The Spicy Italian Pizza",Supreme,spicy_ital_s,S,12.5
+spicy_ital,"The Spicy Italian Pizza",Supreme,spicy_ital_m,M,16.5
+spicy_ital,"The Spicy Italian Pizza",Supreme,spicy_ital_l,L,20.75
+spinach_supr,"The Spinach Supreme Pizza",Supreme,spinach_supr_s,S,12.5
+spinach_supr,"The Spinach Supreme Pizza",Supreme,spinach_supr_m,M,16.5
+spinach_supr,"The Spinach Supreme Pizza",Supreme,spinach_supr_l,L,20.75
+five_cheese,"The Five Cheese Pizza",Veggie,five_cheese_s,S,12.5
+five_cheese,"The Five Cheese Pizza",Veggie,five_cheese_m,M,15.5
+five_cheese,"The Five Cheese Pizza",Veggie,five_cheese_l,L,18.5
+four_cheese,"The Four Cheese Pizza",Veggie,four_cheese_s,S,11.75
+four_cheese,"The Four Cheese Pizza",Veggie,four_cheese_m,M,14.75
+four_cheese,"The Four Cheese Pizza",Veggie,four_cheese_l,L,17.95
+green_garden,"The Green Garden Pizza",Veggie,green_garden_s,S,12
+green_garden,"The Green Garden Pizza",Veggie,green_garden_m,M,16
+green_garden,"The Green Garden Pizza",Veggie,green_garden_l,L,20.25
+ital_veggie,"The Italian Vegetables Pizza",Veggie,ital_veggie_s,S,12.75
+ital_veggie,"The Italian Vegetables Pizza",Veggie,ital_veggie_m,M,16.75
+ital_veggie,"The Italian Vegetables Pizza",Veggie,ital_veggie_l,L,21
+mediterraneo,"The Mediterranean Pizza",Veggie,mediterraneo_s,S,12
+mediterraneo,"The Mediterranean Pizza",Veggie,mediterraneo_m,M,16
+mediterraneo,"The Mediterranean Pizza",Veggie,mediterraneo_l,L,20.25
+mexicana,"The Mexicana Pizza",Veggie,mexicana_s,S,12
+mexicana,"The Mexicana Pizza",Veggie,mexicana_m,M,16
+mexicana,"The Mexicana Pizza",Veggie,mexicana_l,L,20.25
+spin_pesto,"The Spinach Pesto Pizza",Veggie,spin_pesto_s,S,12.5
+spin_pesto,"The Spinach Pesto Pizza",Veggie,spin_pesto_m,M,16.5
+spin_pesto,"The Spinach Pesto Pizza",Veggie,spin_pesto_l,L,20.75
+spinach_fet,"The Spinach and Feta Pizza",Veggie,spinach_fet_s,S,12
+spinach_fet,"The Spinach and Feta Pizza",Veggie,spinach_fet_m,M,16
+spinach_fet,"The Spinach and Feta Pizza",Veggie,spinach_fet_l,L,20.25
+veggie_veg,"The Vegetables + Vegetables Pizza",Veggie,veggie_veg_s,S,12
+veggie_veg,"The Vegetables + Vegetables Pizza",Veggie,veggie_veg_m,M,16
+veggie_veg,"The Vegetables + Vegetables Pizza",Veggie,veggie_veg_l,L,20.25
