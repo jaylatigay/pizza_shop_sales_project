@@ -77,10 +77,47 @@ FROM pizzas
 INNER JOIN pizza_types
 	ON pizzas.pizza_type_id = pizza_types.pizza_type_id ;
 
+#removes unnecessary words in the pizza name
+UPDATE pizza_info
+SET pizza_name = REPLACE(pizza_name, 'The', '');
+UPDATE pizza_info
+SET pizza_name = REPLACE(pizza_name, 'Pizza', '');
+
+
+
 #displays the created tables
 SELECT * 
 FROM order_summary;
 SELECT * 
 FROM pizza_info;
+
+SELECT pizza_info.pizza_id, SUM(order_summary.quantity) AS orders
+FROM pizza_info
+LEFT JOIN order_summary
+	ON pizza_info.pizza_id = order_summary.pizza_id 
+GROUP BY pizza_info.pizza_id
+ORDER BY orders DESC;
+
+#created a combination table for order_summary and pizza_info
+SELECT 
+	order_summary.order_details_id,
+    order_summary.order_id,
+    order_summary.pizza_id,
+    order_summary.quantity,
+    CAST(CONCAT(order_date, ' ', order_time) AS DATETIME) AS order_datetime, 
+    order_summary.amount_due,
+    pizza_info.pizza_name,
+    pizza_info.category,
+    pizza_info.size,
+    pizza_info.price
+FROM order_summary 
+LEFT JOIN pizza_info 
+	ON order_summary.pizza_id = pizza_info.pizza_id;
+    
+
+DESCRIBE order_summary;
+
+
+
 
 
